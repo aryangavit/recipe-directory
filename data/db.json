@@ -1,0 +1,49 @@
+{
+    "recipes":[
+        {
+            "id":"1",
+            "title":"Tandoori Chicken",
+            "ingredients":[
+                "2 pounds chicken, cut into pieces",
+                "1 medium lemon, juiced",
+                "1 teaspoon salt",
+                "1 ¼ cups plain yogurt",
+                "½ medium onion, finely chopped",
+                "1 clove garlic, minced",
+                "2 teaspoon garam masala",
+                "1 teaspoon grated fresh ginger root",
+                "1 teaspoon cayenne pepper",
+                "2 teaspoons finely chopped cilantro",
+                "1 medium lemon, cut into wedges"
+            ],
+            "method":"1. Gather all ingredients. 2. Remove and discard skin from chicken pieces. Cut slits into meat and place into a shallow dish. Season chicken on both sides with lemon juice and salt. Let sit for 20 minutes. 3. Mix yogurt, onion, garlic, garam masala, ginger, and cayenne pepper together in a medium bowl until smooth, then stir in food coloring. 4. Spread yogurt mixture over chicken, cover, and refrigerate for 6 to 24 hours (the longer the better). 5. When ready to cook, preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove chicken from marinade. Discard remaining marinade. 6. Cook chicken on the preheated grill until no longer pink and the juices run clear. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). 7. Garnish with cilantro and lemon wedges. ",
+            "cookingTime":"45 minutes"
+        },
+        {
+            "id":"2",
+            "title":"Butter Chicken",
+            "ingredients":[
+                "2 teaspoons garam masala",
+                "2 teeaspoonaspoons tandoori masala powder",
+                "2 teaspoons Madras curry powder",
+                "1 teaspoon ground cumin",
+                "½ teaspoon ground cardamom",
+                "½ teaspoon ground cayenne pepper",
+                "salt and ground black pepper to taste",
+                "1 ½ pounds boneless, skinless chicken thighs, cut into bite-size pieces",
+                "3 tablespoons butter, divided",
+                "1 yellow onion, chopped",
+                "4 cloves garlic, minced",
+                "1 tablespoon lemon juice",
+                "2 teaspoons chopped fresh ginger",
+                "1 cup tomato puree",
+                "1 cup half-and-half",
+                "¼ cup plain yogurt",
+                "⅓ cup cashews",
+                "1 bunch fresh cilantro, stems removed"
+            ],
+            "method":"1. Gather the ingredients. 2. Make a spice mix by combining garam masala, tandoori masala, curry powder, cumin, cardamom, cayenne, salt, and black pepper in a small bowl; set aside. 3. Place chicken in a large bowl and add 1/2 of the spice mixture; turn to coat evenly. 4. Melt 1 tablespoon butter in a large skillet over medium heat. Add chicken; cook and stir until lightly browned, about 10 minutes. Remove from heat. 5. Melt remaining 2 tablespoons butter in a large saucepan over medium heat. Add onion; cook and stir until soft and translucent, about 5 minutes. Stir in remainder of the spice mixture, garlic, lemon juice, and ginger; cook and stir until combined, about 1 minute. 6. Stir tomato puree into onion mixture and cook, stirring frequently, about 2 minutes. Pour in half-and-half and yogurt. Reduce heat to low and simmer sauce, stirring frequently, about 10 minutes. Remove from heat. 7. Blend cashews in a blender until finely ground. Add sauce to the blender; puree until smooth. 8. Pour blended sauce over chicken in the skillet. Simmer until thickened, 10 to 15 minutes. Garnish with cilantro.",
+            "cookingTime":"60 minutes"
+        }
+    ]
+}
